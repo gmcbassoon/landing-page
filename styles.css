@@ -177,6 +177,7 @@ button {
     display: flex;
     align-self: flex-start;
     padding: 8px;
+    margin-bottom: 16px;
 }
 
 .button.call {
